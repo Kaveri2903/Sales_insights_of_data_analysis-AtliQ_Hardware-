@@ -1,8 +1,6 @@
 # Sales_insights_of_data_analysis-AtliQ_Hardware-
 
-
-![image](https://github.com/user-attachments/assets/cf759b08-108a-4452-b14b-d29d7039c75a)
-
+![image](https://github.com/user-attachments/assets/5227d1d1-dbb7-4c71-b62b-b37edef7ccd7)
 
 ## Table of Contents:
 - [Problem Statement]
@@ -190,7 +188,12 @@ we can see that it is duplicate and for analysis its better to delete anyone of 
 
 ## Build Dashboard Or a Report:
 
-Data visualization for the data analysis (DAX) was done in Microsoft Power BI Desktop:
+Data visualization for the data analysis was done in Microsoft Power BI Desktop:
+
+![image](https://github.com/user-attachments/assets/cf759b08-108a-4452-b14b-d29d7039c75a)
+![image](https://github.com/user-attachments/assets/ec0a488d-27ae-42ad-9914-b359ac999217)
+![image](https://github.com/user-attachments/assets/7300afed-f103-431d-a37d-bcfc7e28dfec)
+
 
 Shows visualizations from Sales insights :
 
