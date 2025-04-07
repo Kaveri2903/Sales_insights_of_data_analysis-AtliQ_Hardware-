@@ -190,14 +190,21 @@ we can see that it is duplicate and for analysis its better to delete anyone of 
 
 Data visualization for the data analysis was done in Microsoft Power BI Desktop:
 
+Shows visualizations from Sales insights :
+
 ![image](https://github.com/user-attachments/assets/cf759b08-108a-4452-b14b-d29d7039c75a)
 ![image](https://github.com/user-attachments/assets/ec0a488d-27ae-42ad-9914-b359ac999217)
 ![image](https://github.com/user-attachments/assets/7300afed-f103-431d-a37d-bcfc7e28dfec)
 
+## Tools, Software and Libraries :
 
-Shows visualizations from Sales insights :
-
-
+1.MySQL
      
+2.Microsoft Power BI
 
+3.Power Query Editor
 
+## References :
+
+https://codebasics.io/resources/sales-insights-data-analysis-project
+---
